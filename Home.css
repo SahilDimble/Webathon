@@ -1,0 +1,10 @@
+.container{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.h1{
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
